@@ -21,7 +21,7 @@ A] Project Setup
       
    To build the project
    
-    $ git clone https://github.com/iamon3/fifa14.git
+    $ git clone https://github.com/iamon3/FIFA-World-Cup-14.git
     $ mvn clean; mvn package
     $ export PORT=5000
 
