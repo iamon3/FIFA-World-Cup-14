@@ -10,9 +10,10 @@ index.jsp is the only page which depicts the results. Ajax makes API calls to fe
 Project Setup
 
    Pre-Requisite
-      - Java 1.6 +
-      - git
-      - maven
+   
+     1) Java 1.6
+     2) git
+     3) maven
       
    To build the project
    
@@ -43,6 +44,7 @@ Project Setup
 Heroku Deployment Set up
 
   Pre-Requisite
+  
     - heroku account (Refer : https://signup.heroku.com/signup/dc)
     - heroku toolbelt 
     
