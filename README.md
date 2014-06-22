@@ -11,9 +11,9 @@ Project Setup
 
    Pre-Requisite
    
-     1) Java 1.6
-     2) git
-     3) maven
+     1. Java 1.6 +
+     2. git
+     3. maven 3 +
       
    To build the project
    
@@ -45,8 +45,8 @@ Heroku Deployment Set up
 
   Pre-Requisite
   
-    - heroku account (Refer : https://signup.heroku.com/signup/dc)
-    - heroku toolbelt 
+    1. heroku account (Refer : https://signup.heroku.com/signup/dc)
+    2. heroku toolbelt 
     
   Setting up and deploying app in Heroku (Refer : https://devcenter.heroku.com/articles/getting-started-with-java)
   
