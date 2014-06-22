@@ -61,8 +61,8 @@ B] Heroku Deployment Set up
      $ heroku create
      $ git push heroku master
      
-   The FIFA 14 web app is deplyed in heroku. To visit the app, follow the link mentioned below. 
+   The demo of the deployed running web app "The FIFA World Cup 14" can be tested at the below mentioned link. 
 
-    http://salty-chamber-4774.herokuapp.com/src/main/webapp/
+      http://salty-chamber-4774.herokuapp.com/src/main/webapp/
 
-   Please note that in case of no activity for some time period (e.g. 1hr), web app will go in ideal state, in which case,     the next URL access may result in the slower response or 404. 
+   Please note that in the case of no activity for some time period (e.g. 1hr), web app will go in idle state, in which case    the next URL access may result in the slower response or 404. 
