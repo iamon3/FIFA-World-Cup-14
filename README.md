@@ -1,3 +1,6 @@
+Overview
+========
+
 FIFA World Cup 14 is a simple web application developed using JAVA platform. Following tutorial is followed for the development and deployment of the app.
 
     https://devcenter.heroku.com/articles/getting-started-with-java
@@ -8,6 +11,7 @@ index.jsp is the only page which depicts the results. Ajax makes API calls to fe
 
 
 A] Project Setup
+----------------
 
    Pre-Requisite
    
@@ -43,6 +47,7 @@ A] Project Setup
    
 
 B] Heroku Deployment Set up
+---------------------------
 
   Pre-Requisite
   
