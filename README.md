@@ -7,7 +7,7 @@ I was facing some web app context path issues in finding the resource index.jsp,
 index.jsp is the only page which depicts the results. Ajax makes API calls to fetch the data of matches, groups, teams etc. The fetched data which is in JSON format is parsed using javascript JSON and is represented in the tabular format.  As of now, UI is not fancy, and I will work on it later.
 
 
-Project Setup
+A] Project Setup
 
    Pre-Requisite
    
@@ -31,7 +31,8 @@ Project Setup
       $ 2012-01-31 15:51:21.931:INFO:oejsh.ContextHandler:started o.e.j.s.ServletContextHandler{/,null}
       $ 2012-01-31 15:51:21.971:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:5000
       
-    To test the app locallyTo test the app locally
+      
+   To test the app locallyTo test the app locally
   
       In the browser Enter the URL : http://localhost:5000/src/main/webapp/
       
@@ -41,7 +42,7 @@ Project Setup
     $ Enter Ctrl+C
    
 
-Heroku Deployment Set up
+B] Heroku Deployment Set up
 
   Pre-Requisite
   
