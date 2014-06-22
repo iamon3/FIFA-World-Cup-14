@@ -6,11 +6,6 @@ I was facing some web app context path issues in finding the resource index.jsp,
 
 index.jsp is the only page which depicts the results. Ajax makes API calls to fetch the data of matches, groups, teams etc. The fetched data which is in JSON format is parsed using javascript JSON and is represented in the tabular format.  As of now, UI is not fancy, and I will work on it later.
 
-The FIFA 14 web app is deplyed in heroku. To visit the app, follow the link mentioned below. 
-
-    http://salty-chamber-4774.herokuapp.com/src/main/webapp/
-
-Please note that in case of no activity for some time period (e.g. 1hr), web app will go in ideal state, in which case, the next URL access may result in the slower response or 404. 
 
 Project Setup
 
@@ -58,4 +53,8 @@ Heroku Deployment Set up
      $ heroku create
      $ git push heroku master
      
-   
+   The FIFA 14 web app is deplyed in heroku. To visit the app, follow the link mentioned below. 
+
+    http://salty-chamber-4774.herokuapp.com/src/main/webapp/
+
+   Please note that in case of no activity for some time period (e.g. 1hr), web app will go in ideal state, in which case,     the next URL access may result in the slower response or 404. 
